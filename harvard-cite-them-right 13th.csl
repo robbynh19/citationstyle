@@ -287,7 +287,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography and="text" et-al-min="3" et-al-use-first="1">
+  <bibliography and="text" et-al-min="99" et-al-use-first="1">
     <sort>
       <key macro="author"/>
       <key macro="year-date"/>
